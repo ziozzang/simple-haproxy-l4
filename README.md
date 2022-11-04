@@ -1,5 +1,11 @@
 # simple-haproxy-l4
-Simple Haproxy container for TCP Load balancer (L4). to make LB-as-a-Service
+Simple Haproxy container for TCP Load balancer (L4).
+
+# Why make this?
+to make LB-as-a-Service. (w/ Kubernetes??)
+
+# Author
+- Jioh L. Jung
 
 # How to Use
 - build container. and set environments for injection.
